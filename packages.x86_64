@@ -120,3 +120,11 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+#Sam os
+
+plasma-meta
+kde-applications-meta
+packagekit-qt5
+
+
