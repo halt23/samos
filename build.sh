@@ -1,3 +1,7 @@
 #!/bin/bash
 
-sudo mkarchiso -v /home/sam/Documents/samos
+CWD=$(pwd)
+
+./cleanup.sh
+
+sudo mkarchiso -v $CWD
