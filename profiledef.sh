@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux"
-iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
+iso_name="samos"
+iso_label="SAMOS_$(date +%Y%m)"
+iso_publisher="Sam os <https://samos.sammaas.com>"
+iso_application="Sam os Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
