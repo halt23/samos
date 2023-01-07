@@ -60,6 +60,7 @@ man-pages
 mc
 mdadm
 memtest86+
+memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -97,6 +98,8 @@ sdparm
 sg3_utils
 smartmontools
 sof-firmware
+speex
+speexdsp
 squashfs-tools
 sudo
 syslinux
@@ -123,8 +126,8 @@ zsh
 
 #Sam os
 
-plasma-meta
-kde-applications-meta
-packagekit-qt5
+#plasma-meta
+#kde-applications-meta
+#packagekit-qt5
 
 
