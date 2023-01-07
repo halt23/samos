@@ -126,8 +126,11 @@ zsh
 
 #Sam os
 
-#plasma-meta
-#kde-applications-meta
-#packagekit-qt5
+plasma-meta
+kde-applications-meta
+packagekit-qt5
+
+#Calamares
+calamares
 
 
