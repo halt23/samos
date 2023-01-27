@@ -125,10 +125,12 @@ xl2tpd
 zsh
 
 #Sam os
-
+#Desktop
 plasma-meta
 kde-applications-meta
 packagekit-qt5
+#core
+bash-completion
 
 #Calamares
 calamares
