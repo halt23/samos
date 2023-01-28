@@ -132,6 +132,10 @@ packagekit-qt5
 #core
 bash-completion
 partitionmanager
+firefox
+base-devel
+git
+
 
 #Calamares
 calamares
