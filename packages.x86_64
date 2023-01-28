@@ -131,8 +131,10 @@ kde-applications-meta
 packagekit-qt5
 #core
 bash-completion
+partitionmanager
 
 #Calamares
 calamares
+samos-calamares-config
 
 
