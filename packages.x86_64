@@ -98,8 +98,6 @@ sdparm
 sg3_utils
 smartmontools
 sof-firmware
-speex
-speexdsp
 squashfs-tools
 sudo
 syslinux
@@ -125,11 +123,15 @@ xl2tpd
 zsh
 
 #Sam os
+
 #Desktop
+
 plasma-meta
 kde-applications-meta
 packagekit-qt5
+
 #core
+
 bash-completion
 partitionmanager
 firefox
