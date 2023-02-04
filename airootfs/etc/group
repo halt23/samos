@@ -1,4 +1,5 @@
- sys:x:3:bin,liveuser
+root:x:0:root
+sys:x:3:bin,liveuser
 network:x:90:liveuser
 power:x:98:liveuser
 adm:x:999:liveuser
