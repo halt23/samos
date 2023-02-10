@@ -134,7 +134,7 @@ packagekit-qt5
 
 bash-completion
 partitionmanager
-firefox
+#firefox
 base-devel
 git
 
