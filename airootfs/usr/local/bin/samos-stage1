@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "#################################"
-echo "Start Sam os stage1
+echo "Start Sam os stage1"
 echo "#################################"
 
 echo "Populate Core Team keys"
