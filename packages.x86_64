@@ -131,11 +131,11 @@ kde-applications-meta
 packagekit-qt5
 
 #core
-
+alacritty
+base-devel
 bash-completion
 partitionmanager
 #firefox
-base-devel
 git
 
 

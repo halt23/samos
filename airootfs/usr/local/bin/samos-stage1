@@ -8,6 +8,10 @@ echo "#################################"
 pacman-key --init
 pacman-key --populate
 
+echo "Changing into our own linux.preset"
+echo "#################################"
+mv /etc/mkinitcpio.d/samos /etc/mkinitcpio.d/linux.preset
+
 echo "#################################"
 echo "End Sam os stage1"
 echo "#################################"
