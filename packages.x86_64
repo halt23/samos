@@ -136,6 +136,7 @@ packagekit-qt5
 alacritty
 base-devel
 bash-completion
+samos-keyring
 partitionmanager
 #firefox
 git
